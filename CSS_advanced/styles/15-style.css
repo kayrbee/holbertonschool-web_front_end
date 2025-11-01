@@ -357,7 +357,7 @@ template {
  * My CSS implementation
  */
 
-* {
+*, *:before, *:after {
   box-sizing: border-box;
 }
 
