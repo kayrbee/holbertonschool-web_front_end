@@ -1,6 +1,6 @@
 html {
     scroll-behavior: smooth;
-    font-size: var(--font-size-large);
+    font-size: 62.5%;
 }
 
 :root {
