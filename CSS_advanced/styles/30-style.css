@@ -539,7 +539,7 @@ h1, h2, h3, h4, h5, h6 {
 .card-work .card-title {
   text-align: center;
   margin: 0;
-  opacity: 1;
+  opacity: 0;
   height: 100%;
   position: relative;
 }
